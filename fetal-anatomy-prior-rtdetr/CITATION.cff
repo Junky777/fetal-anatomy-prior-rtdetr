@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "Please cite the accompanying manuscript when its publication details become available."
-title: "Anatomical-prior-constrained RT-DETR for fetal anatomical structure detection"
-type: software
-version: 0.1.0
-authors:
-  - family-names: Zhang
-    given-names: Junqi
