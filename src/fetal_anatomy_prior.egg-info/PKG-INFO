@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: fetal-anatomy-prior
+Version: 0.1.0
+Summary: Anatomical-prior post-processing for fetal ultrasound structure detection
+Requires-Python: >=3.11
+Requires-Dist: numpy==2.2.0
+Requires-Dist: scikit-learn==1.7.2
+Requires-Dist: PyYAML==6.0.2
+Requires-Dist: Pillow==11.0.0
+Provides-Extra: detector
+Requires-Dist: ultralytics==8.4.113; extra == "detector"
+Requires-Dist: matplotlib==3.10.0; extra == "detector"
