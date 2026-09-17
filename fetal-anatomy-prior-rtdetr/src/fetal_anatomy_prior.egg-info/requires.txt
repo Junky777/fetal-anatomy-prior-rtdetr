@@ -1,0 +1,8 @@
+numpy==2.2.0
+scikit-learn==1.7.2
+PyYAML==6.0.2
+Pillow==11.0.0
+
+[detector]
+ultralytics==8.4.113
+matplotlib==3.10.0
